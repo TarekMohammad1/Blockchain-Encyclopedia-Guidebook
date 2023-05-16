@@ -1,7 +1,11 @@
 # Introduction of the Project
 
 <!--- {% hint style="info" %} -->
-**Good to know:** This is currently a very early project and is still under initial development by a group of MFE (Master of Financial Engineering) from UC Berkeley. This will be published soon once the crucial pillars are set.
+**Good to know:** This project was created by financial engineers supervised by GSR Ventures. The motivation behind this project is to be an open source tool that allow institutions to get access to the know-how of the blockchain technology.
+
+ 
+
+In the near future, blockchain technology will shape how institutions be it educational or corporate institutions in approaching their day-to-day activities.
 <!--- {% endhint %} -->
 
 This is an open-source blockchain guidebook for anyone interested in blockchain, ranging from developers who wish to build on build on a blockchain (or a blockchain) and the newer folk who are just curious about this field. Feel free to contribute to this guidebook!
